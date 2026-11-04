@@ -106,10 +106,11 @@ The application may create these files in the directory from which it is launche
 
 These files are intentionally excluded from version control because they contain machine-specific runtime data. The `.gitignore` file also excludes virtual environments and Python cache files.
 
+
 ## Project structure
 
 ```text
-simple-network-intrusion-detection-system/
+simple_network_intrusion_detection_system/
 ├── simple_nids_interactive.py
 ├── requirements.txt
 ├── README.md
