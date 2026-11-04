@@ -51,8 +51,8 @@ sudo apt install python3 python3-venv python3-tk
 Clone the repository and enter its folder 
 
 ```bash
-git clone https://github.com/calypso-gif/simple-network-intrusion-detection-system.git
-cd simple-network-intrusion-detection-system
+git clone https://github.com/calypso-gif/simple_network_intrusion_detection_system.git
+cd simple_network_intrusion_detection_system
 ```
 
 Create and activate a virtual environment, then install the Python dependency:
