@@ -48,10 +48,10 @@ sudo apt update
 sudo apt install python3 python3-venv python3-tk
 ```
 
-Clone the repository and enter its folder (replace `<your-username>` with your GitHub username):
+Clone the repository and enter its folder 
 
 ```bash
-git clone https://github.com/<your-username>/simple-network-intrusion-detection-system.git
+git clone https://github.com/calypso-gif/simple-network-intrusion-detection-system.git
 cd simple-network-intrusion-detection-system
 ```
 
