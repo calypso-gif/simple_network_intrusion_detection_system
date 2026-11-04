@@ -129,6 +129,4 @@ simple_network_intrusion_detection_system/
 
 Use Live Monitoring only on devices and networks you own or are explicitly authorized to monitor. Demo Mode is provided for classroom demonstrations and testing without generating attack traffic.
 
-## License
 
-No license has been added yet. Add a license if you decide how others may use, modify, and distribute this project.
